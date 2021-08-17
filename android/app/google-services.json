@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "148792951245",
+    "project_id": "happytodo-b05ee",
+    "storage_bucket": "happytodo-b05ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148792951245:android:3b1e8de4f8be72ed030484",
+        "android_client_info": {
+          "package_name": "com.rnhappytodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148792951245-1nc471dbld26299bhl7kecdpn93tpfei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnhappytodo",
+            "certificate_hash": "09dd848bf5c03fb01bb8ef5a365786ef18a7b2e3"
+          }
+        },
+        {
+          "client_id": "148792951245-incmr26l7g413nai1fufttl22sjvj1og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvid-7wYrzMlT2XQ3ZIce80WdAnzS7uy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148792951245-incmr26l7g413nai1fufttl22sjvj1og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
